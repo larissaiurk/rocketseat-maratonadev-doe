@@ -23,11 +23,11 @@ header h1, main h2 {
 }
 
 h1, h2 {
-  color: #000000cc;
+  color: #1f0242cc;
 }
 
 main h2 span {
-  color: #ff4f4f;
+  color: #fc0391;
 }
 
 .form h2 {
@@ -53,7 +53,7 @@ header button {
   padding: 8px 16px;
   border-radius: 4px;
   border: none;
-  background-color: #ff4f4f;
+  background-color: #fc0391;
   color: white;
   font-weight: bold;
 }
@@ -73,7 +73,7 @@ section.form {
   grid-template-columns: 1fr 1fr;
   grid-gap: 45px;
   align-items: center;
-  background-color: #ff4f4f;
+  background-color: #fc0391;
   padding: 16px 64px;
   border-radius: 6px;
 }
@@ -113,7 +113,7 @@ main .donors {
 }
 
 .blood {
-  color: #ff4f4f;
+  color: #fc0391;
   font-weight: bold;
   font-size: 12px;
   display: flex;
@@ -124,7 +124,7 @@ main .donors {
 
 .blood::before {
   content: "";
-  background-color: #ff4f4f36;
+  background-color: #fc039136;
 
   width: 40px;
   height: 40px;
